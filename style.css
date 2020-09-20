@@ -1,0 +1,53 @@
+
+/*css header text*/
+.navbar-brand{font: 50px "Comic Sans MS", cursive !important;}
+/*css main party*/
+.main{display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+    margin: 5% 10%;}
+/*css image de produit*/
+.card-text{width: 250px !important;}
+/*produit*/
+.card  {border-color: #a2a7a3!important}
+.border-success{border-color: #a2a7a3!important}
+/*css header*/
+.card-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    background-color: rgb(248, 242, 242) !important;
+}
+.card-footer{padding: 0px;
+    display: flex;
+    border-color: #a2a7a3!important;
+}
+.btn-group button{
+   background-color:rgb(99, 98, 98) !important;
+   color: white !important;
+}
+.total {
+    padding: 200px;
+}
+/*css heart*/
+.fas {
+    font-size: 46px !important;
+    cursor: pointer !important;
+    color: Salmon;
+}
+/*css btn remove*/
+.far{font-size: 30px !important;
+    cursor: pointer ;}
+    /*carroussel css*/
+    #carouselExampleFade{width: 200px !important;
+    height: 50px !important;}
+
+    /*total css*/
+.tot
+{    display: flex !important;
+    justify-content: center !important;
+    font-size: 50px !important;
+    border-style: solid !important;}
+    
+
+
+
